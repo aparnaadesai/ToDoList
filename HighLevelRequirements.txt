@@ -1,0 +1,7 @@
+Scope: Build an app to create a ToDo List
+
+MVP V1.0 High Level Requirements:
+1) Allow users to add and remove todo tasks.
+
+MVP V1.0 Non Functional Requirements:
+1) ASP .NET MVC app
